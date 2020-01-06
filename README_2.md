@@ -46,7 +46,7 @@ Your next objective is to run linear regression on each relationship, only this 
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-After each pair of plots explain what the linear regression is modelling such as any relationships you notice and any other analysis you may have.
+After each pair of plots explain what the linear regression is modeling such as any relationships you notice and any other analysis you may have.
 
 Your final notebook must:
 
